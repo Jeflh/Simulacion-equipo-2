@@ -1,3 +1,2 @@
-Actividad de clase 1
-
-01/28/2023
+# Actividad de clase 1
+##28 de enero de 2023
