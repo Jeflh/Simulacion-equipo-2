@@ -1,12 +1,4 @@
 # Actividad de clase 1
 
-## 28 de enero de 2023
-
-
-
-https://user-images.githubusercontent.com/88942550/216793147-21b1245e-e4b9-4f31-9c71-183dcc1d7aeb.mp4
-
-
-
-![image](https://user-images.githubusercontent.com/88942550/216774988-e5f05664-3780-42b5-942d-3e798235f0bd.png)
-![image](https://user-images.githubusercontent.com/88942550/216775144-024dbc69-2f20-4431-b9d3-f1398078d58d.png)
+![image](https://user-images.githubusercontent.com/88942550/219876332-ea891f81-8974-49d6-a477-20a2490ae9dc.png)
+![image](https://user-images.githubusercontent.com/88942550/219876396-74f2257d-e33f-46fb-808d-7300716f1e26.png)
