@@ -1,4 +1,4 @@
-# Actividad de clase 1
+# Actividad de clase 1, 2 y 3
 
 ## 28 de enero de 2023
 
