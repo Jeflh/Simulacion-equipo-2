@@ -31,7 +31,6 @@ public class MagicScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Colisión");
         // Verifica si la bala ha colisionado con un objeto que tiene el tag "Obstacle"
         if (collision.gameObject.tag == "Obstacle")
         {

@@ -34,9 +34,9 @@ public class PlayerMovement : MonoBehaviour
         PlayerAnimator.SetFloat("Speed", MoveInput.sqrMagnitude);
 
 
-        if (Input.GetKey(KeyCode.Space) && Time.time > LastShoot + 0.50f)
+        if (Input.GetKey(KeyCode.J) && Time.time > LastShoot + 0.50f)
         {
-            Shoot();
+            //Shoot();
             LastShoot = Time.time;
         }
     }
@@ -50,34 +50,29 @@ public class PlayerMovement : MonoBehaviour
     private void Shoot()
     {
         Vector3 direction = new Vector3(MoveX, MoveY).normalized;
+        int rotation = 0;
 
         if (PlayerAnimator.GetFloat("Speed") < 0.001f)
         {
             direction = new Vector3(0, -1).normalized;
+            rotation = -90;
         }
-
-        Vector3 lado = Vector3.down;
-        int rotation = -90;
 
         if (MoveX == 1 && MoveY == 0)
         {
             rotation = 0;
-            lado = Vector3.right;
         }
         else if (MoveX == -1 && MoveY == 0)
         {
             rotation = 180;
-            lado = Vector3.left;
         }
         else if (MoveX == 0 && MoveY == 1)
         {
             rotation = 90;
-            lado = Vector3.up;
         }
         else if (MoveX == 0 && MoveY == -1)
         {
             rotation = -90;
-            lado = Vector3.down;
         }
         else if (MoveX == -1 && MoveY == 1)
         {
