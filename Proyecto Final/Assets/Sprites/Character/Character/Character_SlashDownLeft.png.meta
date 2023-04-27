@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6bd3a5f6aeb735a4e85ddf058726bc64
+guid: 65a18fec304061447a8098eff1220c8a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -129,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sword_UpLeft_0
+      name: Character_SlashDownLeft_0
       rect:
         serializedVersion: 2
-        x: 75
-        y: 25
-        width: 23
-        height: 25
+        x: 7
+        y: 6
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f895164caaa0f544883321c2110c226
-      internalID: 89960203
+      spriteID: c403ae49830c184499df911dff103eb8
+      internalID: 1523631830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_UpLeft_1
+      name: Character_SlashDownLeft_1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 24
-        width: 11
-        height: 7
+        x: 40
+        y: 4
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b28a2a3abded2bb4396836b7fd7c9ec1
-      internalID: -433229228
+      spriteID: 6f9e68f3670955548ac05a770adc0217
+      internalID: 935806560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_UpLeft_2
+      name: Character_SlashDownLeft_2
       rect:
         serializedVersion: 2
-        x: 203
-        y: 21
-        width: 12
-        height: 6
+        x: 72
+        y: 4
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8812c6177992aa84e91d31075c03690c
-      internalID: 548352204
+      spriteID: 019e1611ea887e946bc5c2bcdffb9682
+      internalID: -1751964307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_UpLeft_3
+      name: Character_SlashDownLeft_3
       rect:
         serializedVersion: 2
-        x: 267
-        y: 21
-        width: 12
-        height: 6
+        x: 104
+        y: 4
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,8 +206,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92a6895ec507f5a48b1e5df45a577d8d
-      internalID: -1532317556
+      spriteID: 481e96058946e8a4287d610b11c3d610
+      internalID: -305433417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_SlashDownLeft_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981aa987d78ce2949a287f5347d36fb3
+      internalID: -1569870023
       vertices: []
       indices: 
       edges: []
@@ -223,10 +244,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sword_UpLeft_0: 89960203
-      Sword_UpLeft_1: -433229228
-      Sword_UpLeft_2: 548352204
-      Sword_UpLeft_3: -1532317556
+      Character_SlashDownLeft_0: 1523631830
+      Character_SlashDownLeft_1: 935806560
+      Character_SlashDownLeft_2: -1751964307
+      Character_SlashDownLeft_3: -305433417
+      Character_SlashDownLeft_4: -1569870023
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

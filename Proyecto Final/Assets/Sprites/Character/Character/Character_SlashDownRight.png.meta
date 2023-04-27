@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6bd3a5f6aeb735a4e85ddf058726bc64
+guid: dc8c1d8e0b0072b45915425ef65bf26f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -129,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sword_UpLeft_0
+      name: Character_SlashDownRight_0
       rect:
         serializedVersion: 2
-        x: 75
-        y: 25
-        width: 23
-        height: 25
+        x: 9
+        y: 6
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f895164caaa0f544883321c2110c226
-      internalID: 89960203
+      spriteID: 9ea64e7bd6052904c8ca0065e183ecf5
+      internalID: 1861517146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_UpLeft_1
+      name: Character_SlashDownRight_1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 24
-        width: 11
-        height: 7
+        x: 44
+        y: 6
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b28a2a3abded2bb4396836b7fd7c9ec1
-      internalID: -433229228
+      spriteID: 0415edce043c34e428c3b813db011e5e
+      internalID: 1900476455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_UpLeft_2
+      name: Character_SlashDownRight_2
       rect:
         serializedVersion: 2
-        x: 203
-        y: 21
-        width: 12
-        height: 6
+        x: 76
+        y: 6
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8812c6177992aa84e91d31075c03690c
-      internalID: 548352204
+      spriteID: dc1ef9e1e7d87534c96df99e660f2a18
+      internalID: 1069859501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_UpLeft_3
+      name: Character_SlashDownRight_3
       rect:
         serializedVersion: 2
-        x: 267
-        y: 21
-        width: 12
-        height: 6
+        x: 108
+        y: 6
+        width: 15
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,8 +206,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92a6895ec507f5a48b1e5df45a577d8d
-      internalID: -1532317556
+      spriteID: f7aa7581bd4b72f409dc0061c1185ef5
+      internalID: -708129372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_SlashDownRight_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b16b6f1e586d4ca2ec4fe4dc84fcb
+      internalID: -1317825659
       vertices: []
       indices: 
       edges: []
@@ -223,10 +244,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sword_UpLeft_0: 89960203
-      Sword_UpLeft_1: -433229228
-      Sword_UpLeft_2: 548352204
-      Sword_UpLeft_3: -1532317556
+      Character_SlashDownRight_0: 1861517146
+      Character_SlashDownRight_1: 1900476455
+      Character_SlashDownRight_2: 1069859501
+      Character_SlashDownRight_3: -708129372
+      Character_SlashDownRight_4: -1317825659
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
